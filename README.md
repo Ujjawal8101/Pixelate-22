@@ -1,4 +1,4 @@
-# Pixelate '22 Sample Arena
+# Pixelate '22 
 
 Simulated an autonomous robot on PyBullet that used live video feed from an overhead camera,to apply image
 processing to navigate itself through a pattern maze.
